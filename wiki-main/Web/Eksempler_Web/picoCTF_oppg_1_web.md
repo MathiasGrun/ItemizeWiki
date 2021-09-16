@@ -1,0 +1,5 @@
+# PicoCTF Web Exploit oppg. 1
+
+<!-- TODO: Legge til bilder på disse-->
+
+Oppgaven heter Inspect0r og hintet spør om vi vet hvordan vi kan se kildekode. Vi går inn på linken og finner en enkel hjemmeside. Det står at det er brukt HTML, CSS og JS for å lage nettsiden. Ved å se kildekoden, ser vi første delen av flagg 1/3 i en kommentar i HTML-koden (picoCTF{tru3_d3)). Vi kan og åpne utviklerverktøy for å se JS og CSS. Her har forskjellige nettlesere litt forskjellige utviklerverktøy. Jeg bruker Chrome i dette eksempelet. Hvis vi trykket på "Sources", helt øverst, så "Page" litt under, til venstre, ser vi tre forskjellige filer. Det første er (index) som er HTML-filen. Vi kan altså finne flagg 1/3 her også. I JS-filen, ser vi flagg 3/3 (_lucky?d3db9182}) og i CSS filen finner vi flagg 2/3 (t3ct1ve_0r_ju5t). Sammen blir dette: _picoCTF{tru3_d3t3ct1ve_0r_ju5t_lucky?d3db9182}_.

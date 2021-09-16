@@ -1,0 +1,2 @@
+# PicoCTF Web Exploitation oppg 6. 
+Flagget kan kun sees av admin og klokka må være 1400. Hintet er om Cookies kan hjelpe med å fikse dette. Et triks med cookies er at man kan lage sine egne. Inne på cookies på denne siden, er det ingenting spennende. Men vi lager våre egne. Bare dobbeltrykk på under "Name" så skriver man en cookie som heter "admin". Gi den en verdi, "True". Så gjør vi det samme med "time" og verdi som er "1400". Deretter kan vi oppdatere siden og få flagget: picoCTF{0p3n_t0_adm1n5_2e8d3883}

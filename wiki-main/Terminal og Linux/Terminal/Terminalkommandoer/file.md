@@ -1,0 +1,2 @@
+# file
+_file_-kommandoer forteller enkelt og greit hvilken type fil det er man spør om. Filer som f.eks. heter _data_ er ikke leselig av mennesker, men av datamaskiner. ASCII-filer er som oftest leselige av mennesker. Denne kommandoen kan være grei om du lurer på hva det er du har å jobbe med. 

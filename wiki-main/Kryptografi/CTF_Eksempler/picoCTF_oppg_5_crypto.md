@@ -1,0 +1,4 @@
+# picoCTF Oppg. 5 Crypto
+
+Vi ser her et eksempel på hvordan kjernen i kryptografi, nemlig å skjule en melding, ikke nødvendigvis trenger å være modulær aritmetikk og skiftede alfabeter. Her finner vi en haug med rare flagg. Vi ser de ikoniske krølleparentesene. Flaggene ser heller ikke ut som nasjonalflagg. Vi vet at løsningen skal være på formen picoCTF{...}. Utfra dette, Googlet jeg "falgs as letters". Da dukker det opp "internasjonale maritime signalflagg". Vi ser da at på sjøen kan man symbolisere bokstaver som flagg. Ved å titte i en tabell, finner vi løsningen kjapt: PICOCTF{F1AG5ANDSTU55}. 
+Obs! Her var det en del forskjellige bilder å lese fra, valgte en versjon som ga mening.
